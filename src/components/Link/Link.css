@@ -1,0 +1,14 @@
+a,
+a:visited {
+    color: #6C7789;
+}
+
+a:hover {
+    color: white;
+}
+
+a,
+a:visited,
+a:hover {
+    text-decoration: none;
+}
